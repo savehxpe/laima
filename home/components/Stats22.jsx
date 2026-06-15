@@ -1,13 +1,6 @@
 "use client";
 
-import {
-  Dialog,
-  DialogContent,
-  DialogTrigger,
-  VideoIframe,
-} from "@relume_io/relume-ui";
 import React from "react";
-import { FaCirclePlay } from "react-icons/fa6";
 
 export function Stats22() {
   return (
@@ -51,20 +44,11 @@ export function Stats22() {
             </div>
           </div>
           <div className="flex flex-col">
-            <Dialog>
-              <DialogTrigger className="relative flex size-full w-full items-center justify-center">
-                <img
-                  src="/images/hero-wide.jpg"
-                  alt="Laima delivery captain in action across Maseru"
-                  className="aspect-[3/2] size-full object-cover"
-                />
-                <span className="absolute inset-0 z-10 bg-black/50" />
-                <FaCirclePlay className="absolute z-20 size-16 text-white" />
-              </DialogTrigger>
-              <DialogContent>
-                <VideoIframe video="https://www.youtube.com/embed/8DKLYsikxTs?si=Ch9W0KrDWWUiCMMW" />
-              </DialogContent>
-            </Dialog>
+            <img
+              src="/images/hero-wide.jpg"
+              alt="Laima delivery captain in action across Maseru"
+              className="aspect-[3/2] size-full object-cover"
+            />
           </div>
         </div>
       </div>
