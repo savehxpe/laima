@@ -2,13 +2,7 @@
 
 import Link from "next/link";
 import React from "react";
-import {
-  BiLogoFacebookCircle,
-  BiLogoInstagram,
-  BiLogoLinkedinSquare,
-  BiLogoWhatsapp,
-} from "react-icons/bi";
-import { FaXTwitter } from "react-icons/fa6";
+import { BiLogoWhatsapp } from "react-icons/bi";
 
 const COLS = [
   {
@@ -71,22 +65,21 @@ export function SiteFooter() {
                 +266 2231 4567
               </a>
               <a
-                href="mailto:info@laima.ls"
+                href="mailto:team@outworldcreative.com"
                 className="mt-1 block text-sm text-white/80 hover:text-[#F5C454]"
               >
-                info@laima.ls
+                team@outworldcreative.com
               </a>
             </div>
             <div className="mt-6 flex items-center gap-3">
-              {[BiLogoWhatsapp, BiLogoFacebookCircle, BiLogoInstagram, FaXTwitter, BiLogoLinkedinSquare].map((Icon, i) => (
-                <a
-                  key={i}
-                  href="#"
-                  className="flex h-9 w-9 items-center justify-center rounded-full border border-white/15 text-white/70 transition-colors hover:border-[#F5C454] hover:text-[#F5C454]"
-                >
-                  <Icon className="h-4 w-4" />
-                </a>
-              ))}
+              <a
+                href="https://wa.me/2662231456"
+                target="_blank"
+                rel="noreferrer"
+                className="flex h-9 w-9 items-center justify-center rounded-full border border-white/15 text-white/70 transition-colors hover:border-[#F5C454] hover:text-[#F5C454]"
+              >
+                <BiLogoWhatsapp className="h-4 w-4" />
+              </a>
             </div>
           </div>
 

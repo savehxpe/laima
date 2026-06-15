@@ -352,11 +352,11 @@ export function Navbar6() {
                             Latest updates
                           </h4>
                           <div className="max-w-none grid w-full grid-cols-1 grid-rows-[auto_auto_auto_auto] items-start gap-y-2 md:block">
-                            <a href="#" className="flex flex-col py-2">
+                            <div className="flex flex-col py-2">
                               <div className="relative mb-3 w-full overflow-hidden pt-[56.25%]">
                                 <img
-                                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                                  alt="Relume placeholder image 2"
+                                  src="/images/hero-wide.jpg"
+                                  alt="Laima delivery in action across Maseru"
                                   className="absolute inset-0 size-full object-cover"
                                 />
                               </div>
@@ -367,18 +367,8 @@ export function Navbar6() {
                                 <p className="text-sm">
                                   The story of speed and trust
                                 </p>
-                                <div className="mt-2">
-                                  <Button
-                                    title="Read more"
-                                    variant="link"
-                                    size="link"
-                                    className="text-sm underline"
-                                  >
-                                    Read more
-                                  </Button>
-                                </div>
                               </div>
-                            </a>
+                            </div>
                           </div>
                           <div className="flex items-center">
                             <Button
@@ -765,11 +755,11 @@ export function Navbar6() {
                               Featured from Blog
                             </h4>
                             <div className="max-w-none grid w-full grid-cols-1 grid-rows-[auto_auto_auto_auto] items-start gap-y-2 md:block">
-                              <a href="#" className="flex flex-col py-2">
+                              <div className="flex flex-col py-2">
                                 <div className="relative mb-3 w-full overflow-hidden pt-[56.25%]">
                                   <img
-                                    src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                                    alt="Relume placeholder image 2"
+                                    src="/images/mountain-route.jpg"
+                                    alt="Lesotho mountain routes served by Laima captains"
                                     className="absolute inset-0 size-full object-cover"
                                   />
                                 </div>
@@ -780,18 +770,8 @@ export function Navbar6() {
                                   <p className="text-sm">
                                     Lorem ipsum dolor sit amet consectetur elit
                                   </p>
-                                  <div className="mt-2">
-                                    <Button
-                                      title="Read more"
-                                      variant="link"
-                                      size="link"
-                                      className="text-sm underline"
-                                    >
-                                      Read more
-                                    </Button>
-                                  </div>
                                 </div>
-                              </a>
+                              </div>
                             </div>
                             <div className="flex items-center">
                               <Button

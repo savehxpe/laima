@@ -54,8 +54,8 @@ export function Stats22() {
             <Dialog>
               <DialogTrigger className="relative flex size-full w-full items-center justify-center">
                 <img
-                  src="https://assets-global.website-files.com/624380709031623bfe4aee60/6243807090316259584aee68_placeholder-video-thumbnail.svg"
-                  alt="Relume placeholder image"
+                  src="/images/hero-wide.jpg"
+                  alt="Laima delivery captain in action across Maseru"
                   className="aspect-[3/2] size-full object-cover"
                 />
                 <span className="absolute inset-0 z-10 bg-black/50" />

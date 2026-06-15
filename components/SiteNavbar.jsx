@@ -43,11 +43,10 @@ export function SiteNavbar() {
               <Link
                 key={item.href}
                 href={item.href}
-                className={`relative rounded-full px-4 py-2 text-sm font-medium transition-colors ${
-                  active
+                className={`relative rounded-full px-4 py-2 text-sm font-medium transition-colors ${active
                     ? "bg-white/10 text-white"
                     : "text-white/80 hover:bg-white/5 hover:text-white"
-                }`}
+                  }`}
               >
                 {item.label}
               </Link>
@@ -60,6 +59,14 @@ export function SiteNavbar() {
             href="https://wa.me/2662231456"
             target="_blank"
             rel="noreferrer"
+            onClick={() => {
+              if (typeof window !== "undefined" && window.gtag) {
+                window.gtag("event", "conversion", {
+                  event_category: "WhatsApp",
+                  event_label: "Navbar Chat",
+                });
+              }
+            }}
             className="text-sm font-medium text-white/80 hover:text-white"
           >
             Chat on WhatsApp
@@ -67,6 +74,14 @@ export function SiteNavbar() {
           <Link href="/services">
             <Button
               size="sm"
+              onClick={() => {
+                if (typeof window !== "undefined" && window.gtag) {
+                  window.gtag("event", "conversion", {
+                    event_category: "CTA",
+                    event_label: "Get a Captain - Navbar",
+                  });
+                }
+              }}
               className="rounded-full border-none bg-[#F5C454] px-5 text-sm font-semibold text-[#0B1A2F] hover:bg-[#FFD675]"
             >
               Get a captain

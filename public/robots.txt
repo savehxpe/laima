@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /sebabatso-2026
+
+Sitemap: https://laima-mu.vercel.app/sitemap.xml

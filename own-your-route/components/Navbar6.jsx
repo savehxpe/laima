@@ -355,8 +355,8 @@ export function Navbar6() {
                             <a href="#" className="flex flex-col py-2">
                               <div className="relative mb-3 w-full overflow-hidden pt-[56.25%]">
                                 <img
-                                  src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                                  alt="Relume placeholder image 2"
+                                  src="/images/mountain-route.jpg"
+                                  alt="Lesotho mountain routes served by Laima captains"
                                   className="absolute inset-0 size-full object-cover"
                                 />
                               </div>
@@ -768,8 +768,8 @@ export function Navbar6() {
                               <a href="#" className="flex flex-col py-2">
                                 <div className="relative mb-3 w-full overflow-hidden pt-[56.25%]">
                                   <img
-                                    src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                                    alt="Relume placeholder image 2"
+                                    src="/images/mountain-route.jpg"
+                                    alt="Lesotho mountain routes served by Laima captains"
                                     className="absolute inset-0 size-full object-cover"
                                   />
                                 </div>

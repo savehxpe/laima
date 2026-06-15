@@ -16,8 +16,8 @@ export function Testimonial3() {
           <div className="flex flex-col items-center justify-center text-center">
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/webflow-logo.svg"
-                alt="Webflow logo"
+                src="/laima-star.svg"
+                alt="Laima Logistics"
                 className="max-h-14"
               />
             </div>
@@ -40,8 +40,8 @@ export function Testimonial3() {
           <div className="flex flex-col items-center justify-center text-center">
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/webflow-logo.svg"
-                alt="Webflow logo"
+                src="/laima-star.svg"
+                alt="Laima Logistics"
                 className="max-h-14"
               />
             </div>
@@ -64,8 +64,8 @@ export function Testimonial3() {
           <div className="flex flex-col items-center justify-center text-center">
             <div className="mb-6 md:mb-8">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/webflow-logo.svg"
-                alt="Webflow logo"
+                src="/laima-star.svg"
+                alt="Laima Logistics"
                 className="max-h-14"
               />
             </div>
