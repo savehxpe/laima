@@ -42,7 +42,7 @@ export function Layout348() {
           <div className="order-1 md:order-2">
             <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl shadow-[0_30px_60px_-20px_rgba(11,26,47,0.35)]">
               <img
-                src="/images/star-rider-fast.jpg"
+                src="/images/star-rider-fast.webp"
                 alt="Laima Star captain delivering across Maseru"
                 className="absolute inset-0 size-full object-cover"
               />

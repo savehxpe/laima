@@ -17,42 +17,42 @@ export function Gallery5() {
         <div className="grid grid-cols-2 items-start justify-center gap-6 md:gap-8 lg:grid-cols-3">
           <a href="#">
             <img
-              src="/images/mountain-route.jpg"
+              src="/images/mountain-route.webp"
               alt="Relume placeholder image 1"
               className="size-full object-cover"
             />
           </a>
           <a href="#">
             <img
-              src="/images/hero-mosaic-4.jpg"
+              src="/images/hero-mosaic-4.webp"
               alt="Relume placeholder image 2"
               className="size-full object-cover"
             />
           </a>
           <a href="#">
             <img
-              src="/images/training-session.jpg"
+              src="/images/training-session.webp"
               alt="Relume placeholder image 3"
               className="size-full object-cover"
             />
           </a>
           <a href="#">
             <img
-              src="/images/hero-mosaic-3.jpg"
+              src="/images/hero-mosaic-3.webp"
               alt="Relume placeholder image 4"
               className="size-full object-cover"
             />
           </a>
           <a href="#">
             <img
-              src="/images/hero-mosaic-7.jpg"
+              src="/images/hero-mosaic-7.webp"
               alt="Relume placeholder image 5"
               className="size-full object-cover"
             />
           </a>
           <a href="#">
             <img
-              src="/images/hero-mosaic-8.jpg"
+              src="/images/hero-mosaic-8.webp"
               alt="Relume placeholder image 6"
               className="size-full object-cover"
             />

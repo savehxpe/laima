@@ -21,7 +21,7 @@ export default function ServicesPage() {
                 />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="https://laima.ls/services" />
-                <meta property="og:image" content="https://laima.ls/images/hero-wide.jpg" />
+                <meta property="og:image" content="https://laima.ls/images/hero-wide.webp" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="Services · Laima" />
                 <meta

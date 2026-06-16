@@ -21,7 +21,7 @@ export default function OwnYourRoutePage() {
                 />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="https://laima.ls/own-your-route" />
-                <meta property="og:image" content="https://laima.ls/images/star-rider-fast.jpg" />
+                <meta property="og:image" content="https://laima.ls/images/star-rider-fast.webp" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="Own Your Route · Laima" />
                 <meta

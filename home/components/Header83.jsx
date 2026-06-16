@@ -57,63 +57,63 @@ export function Header83() {
           >
             <div className="relative hidden md:block">
               <img
-                src="/images/hero-mosaic-1.jpg"
+                src="/images/hero-mosaic-1.webp"
                 alt="Relume placeholder image 1"
                 className="absolute inset-0 size-full object-cover"
               />
             </div>
             <div className="relative">
               <img
-                src="/images/hero-mosaic-2.jpg"
+                src="/images/hero-mosaic-2.webp"
                 alt="Relume placeholder image 2"
                 className="absolute inset-0 size-full object-cover"
               />
             </div>
             <div className="relative hidden md:block">
               <img
-                src="/images/hero-mosaic-3.jpg"
+                src="/images/hero-mosaic-3.webp"
                 alt="Relume placeholder image 3"
                 className="absolute inset-0 size-full object-cover"
               />
             </div>
             <div className="relative hidden md:block">
               <img
-                src="/images/hero-mosaic-4.jpg"
+                src="/images/hero-mosaic-4.webp"
                 alt="Relume placeholder image 4"
                 className="absolute inset-0 size-full object-cover"
               />
             </div>
             <div className="relative">
               <img
-                src="/images/hero-mosaic-5.jpg"
+                src="/images/hero-mosaic-5.webp"
                 alt="Relume placeholder image 5"
                 className="absolute inset-0 size-full object-cover"
               />
             </div>
             <div className="relative hidden md:block">
               <img
-                src="/images/hero-mosaic-6.jpg"
+                src="/images/hero-mosaic-6.webp"
                 alt="Relume placeholder image 6"
                 className="absolute inset-0 size-full object-cover"
               />
             </div>
             <div className="relative hidden md:block">
               <img
-                src="/images/hero-mosaic-7.jpg"
+                src="/images/hero-mosaic-7.webp"
                 alt="Relume placeholder image 7"
                 className="absolute inset-0 size-full object-cover"
               />
             </div>
             <div className="relative">
               <img
-                src="/images/hero-mosaic-8.jpg"
+                src="/images/hero-mosaic-8.webp"
                 alt="Relume placeholder image 8"
                 className="absolute inset-0 size-full object-cover"
               />
             </div>
             <div className="relative hidden md:block">
               <img
-                src="/images/hero-mosaic-9.jpg"
+                src="/images/hero-mosaic-9.webp"
                 alt="Relume placeholder image 9"
                 className="absolute inset-0 size-full object-cover"
               />

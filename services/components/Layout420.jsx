@@ -52,7 +52,7 @@ export function Layout420() {
             </div>
             <div className="absolute inset-0 -z-10">
               <img
-                src="/images/whatsapp-phone.jpg"
+                src="/images/whatsapp-phone.webp"
                 className="size-full object-cover"
                 alt="Relume placeholder image 1"
               />
@@ -71,7 +71,7 @@ export function Layout420() {
             </div>
             <div className="absolute inset-0 -z-10">
               <img
-                src="/images/captain-portrait.jpg"
+                src="/images/captain-portrait.webp"
                 className="size-full object-cover"
                 alt="Relume placeholder image 2"
               />
@@ -90,7 +90,7 @@ export function Layout420() {
             </div>
             <div className="absolute inset-0 -z-10">
               <img
-                src="/images/mountain-route.jpg"
+                src="/images/mountain-route.webp"
                 className="size-full object-cover"
                 alt="Relume placeholder image 3"
               />
@@ -109,7 +109,7 @@ export function Layout420() {
             </div>
             <div className="absolute inset-0 -z-10">
               <img
-                src="/images/earnings-dashboard.jpg"
+                src="/images/earnings-dashboard.webp"
                 className="size-full object-cover"
                 alt="Relume placeholder image 4"
               />

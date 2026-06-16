@@ -21,14 +21,14 @@ export default function HomePage() {
                 />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="https://laima.ls" />
-                <meta property="og:image" content="https://laima.ls/images/hero-wide.jpg" />
+                <meta property="og:image" content="https://laima.ls/images/hero-wide.webp" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="Laima · WhatsApp-First Logistics for Lesotho" />
                 <meta
                     name="twitter:description"
                     content="Order deliveries, track captains, and move goods across Maseru and beyond — all from WhatsApp."
                 />
-                <meta name="twitter:image" content="https://laima.ls/images/hero-wide.jpg" />
+                <meta name="twitter:image" content="https://laima.ls/images/hero-wide.webp" />
             </Head>
             <script
                 type="application/ld+json"

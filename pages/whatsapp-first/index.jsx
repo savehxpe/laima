@@ -21,7 +21,7 @@ export default function WhatsAppFirstPage() {
                 />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="https://laima.ls/whatsapp-first" />
-                <meta property="og:image" content="https://laima.ls/images/whatsapp-phone.jpg" />
+                <meta property="og:image" content="https://laima.ls/images/whatsapp-phone.webp" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="WhatsApp First · Laima" />
                 <meta

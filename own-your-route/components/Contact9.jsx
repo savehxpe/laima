@@ -9,7 +9,7 @@ export function Contact9() {
       <div className="container grid grid-cols-1 gap-y-12 md:grid-flow-row md:grid-cols-2 md:gap-x-12 lg:gap-x-20">
         <div>
           <img
-            src="/images/customer-tracking.jpg"
+            src="/images/customer-tracking.webp"
             alt="Relume placeholder image"
             className="size-full object-cover"
           />

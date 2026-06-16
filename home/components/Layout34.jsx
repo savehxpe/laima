@@ -96,7 +96,7 @@ export function Layout34() {
           </div>
           <div>
             <img
-              src="/images/captain-portrait.jpg"
+              src="/images/captain-portrait.webp"
               className="w-full object-cover"
               alt="Relume placeholder image"
             />

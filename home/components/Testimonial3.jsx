@@ -30,7 +30,7 @@ export function Testimonial3() {
             <div className="mt-6 flex flex-col items-center justify-center md:mt-8">
               <div className="mb-3 md:mb-4">
                 <img
-                  src="/images/captain-portrait.jpg"
+                  src="/images/captain-portrait.webp"
                   alt="Testimonial avatar"
                   className="size-14 min-h-14 min-w-14 rounded-full object-cover"
                 />
@@ -54,7 +54,7 @@ export function Testimonial3() {
             <div className="mt-6 flex flex-col items-center justify-center md:mt-8">
               <div className="mb-3 md:mb-4">
                 <img
-                  src="/images/hero-mosaic-1.jpg"
+                  src="/images/hero-mosaic-1.webp"
                   alt="Testimonial avatar"
                   className="size-14 min-h-14 min-w-14 rounded-full object-cover"
                 />
@@ -78,7 +78,7 @@ export function Testimonial3() {
             <div className="mt-6 flex flex-col items-center justify-center md:mt-8">
               <div className="mb-3 md:mb-4">
                 <img
-                  src="/images/hero-mosaic-7.jpg"
+                  src="/images/hero-mosaic-7.webp"
                   alt="Testimonial avatar"
                   className="size-14 min-h-14 min-w-14 rounded-full object-cover"
                 />

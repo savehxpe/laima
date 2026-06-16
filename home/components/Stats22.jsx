@@ -45,7 +45,7 @@ export function Stats22() {
           </div>
           <div className="flex flex-col">
             <img
-              src="/images/hero-wide.jpg"
+              src="/images/hero-wide.webp"
               alt="Laima delivery captain in action across Maseru"
               className="aspect-[3/2] size-full object-cover"
             />

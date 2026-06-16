@@ -21,7 +21,7 @@ export default function LaimaVaultPage() {
                 />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="https://laima.ls/the-laima-vault" />
-                <meta property="og:image" content="https://laima.ls/images/earnings-dashboard.jpg" />
+                <meta property="og:image" content="https://laima.ls/images/earnings-dashboard.webp" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="The Laima Vault" />
                 <meta

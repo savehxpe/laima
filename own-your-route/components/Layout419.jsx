@@ -45,7 +45,7 @@ export function Layout419() {
             <div className="max-w-md">
               <div className="mb-6 md:mb-8">
                 <img
-                  src="/images/captain-portrait.jpg"
+                  src="/images/captain-portrait.webp"
                   alt="Relume placeholder image 1"
                   className="size-full object-cover"
                 />
@@ -63,7 +63,7 @@ export function Layout419() {
             <div className="max-w-md">
               <div className="mb-6 md:mb-8">
                 <img
-                  src="/images/hero-mosaic-6.jpg"
+                  src="/images/hero-mosaic-6.webp"
                   alt="Relume placeholder image 2"
                   className="size-full object-cover"
                 />
@@ -81,7 +81,7 @@ export function Layout419() {
             <div className="max-w-md">
               <div className="mb-6 md:mb-8">
                 <img
-                  src="/images/training-session.jpg"
+                  src="/images/training-session.webp"
                   alt="Relume placeholder image 3"
                   className="size-full object-cover"
                 />
@@ -99,7 +99,7 @@ export function Layout419() {
             <div className="max-w-md">
               <div className="mb-6 md:mb-8">
                 <img
-                  src="/images/earnings-dashboard.jpg"
+                  src="/images/earnings-dashboard.webp"
                   alt="Relume placeholder image 4"
                   className="size-full object-cover"
                 />

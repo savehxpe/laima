@@ -40,7 +40,7 @@ export function Layout22() {
           </div>
           <div>
             <img
-              src="/images/whatsapp-phone.jpg"
+              src="/images/whatsapp-phone.webp"
               className="w-full object-cover"
               alt="Relume placeholder image"
             />

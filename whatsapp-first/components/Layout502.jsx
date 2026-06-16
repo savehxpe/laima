@@ -65,7 +65,7 @@ export function Layout502() {
             <div className="grid grid-cols-1 gap-y-12 md:grid-cols-2 md:items-center md:gap-x-12 lg:gap-x-20">
               <div>
                 <img
-                  src="/images/hero-mosaic-2.jpg"
+                  src="/images/hero-mosaic-2.webp"
                   className="w-full object-cover"
                   alt="Relume placeholder image 1"
                 />
@@ -102,7 +102,7 @@ export function Layout502() {
             <div className="grid grid-cols-1 gap-y-12 md:grid-cols-2 md:items-center md:gap-x-12 lg:gap-x-20">
               <div>
                 <img
-                  src="/images/customer-tracking.jpg"
+                  src="/images/customer-tracking.webp"
                   className="w-full object-cover"
                   alt="Relume placeholder image 2"
                 />
@@ -139,7 +139,7 @@ export function Layout502() {
             <div className="grid grid-cols-1 gap-y-12 md:grid-cols-2 md:items-center md:gap-x-12 lg:gap-x-20">
               <div>
                 <img
-                  src="/images/whatsapp-phone.jpg"
+                  src="/images/whatsapp-phone.webp"
                   className="w-full object-cover"
                   alt="Relume placeholder image 3"
                 />

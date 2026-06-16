@@ -25,7 +25,7 @@ export function Layout239() {
             <div className="flex w-full flex-col items-center text-center">
               <div className="rb-6 mb-6 md:mb-8">
                 <img
-                  src="/images/customer-tracking.jpg"
+                  src="/images/customer-tracking.webp"
                   alt="Relume placeholder image"
                 />
               </div>
@@ -40,7 +40,7 @@ export function Layout239() {
             <div className="flex w-full flex-col items-center text-center">
               <div className="rb-6 mb-6 md:mb-8">
                 <img
-                  src="/images/whatsapp-phone.jpg"
+                  src="/images/whatsapp-phone.webp"
                   alt="Relume placeholder image"
                 />
               </div>
@@ -55,7 +55,7 @@ export function Layout239() {
             <div className="flex w-full flex-col items-center text-center">
               <div className="rb-6 mb-6 md:mb-8">
                 <img
-                  src="/images/hero-mosaic-9.jpg"
+                  src="/images/hero-mosaic-9.webp"
                   alt="Relume placeholder image"
                 />
               </div>

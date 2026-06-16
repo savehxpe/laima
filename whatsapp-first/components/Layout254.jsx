@@ -57,7 +57,7 @@ export function Layout254() {
           </div>
           <div className="relative order-last w-full sm:col-span-2 lg:order-none lg:col-span-1">
             <img
-              src="/images/customer-tracking.jpg"
+              src="/images/customer-tracking.webp"
               alt="Relume placeholder image"
               className="h-auto w-full object-cover"
             />

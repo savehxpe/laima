@@ -42,7 +42,7 @@ export function Layout22() {
           </div>
           <div>
             <img
-              src="/images/earnings-dashboard.jpg"
+              src="/images/earnings-dashboard.webp"
               className="w-full object-cover"
               alt="Relume placeholder image"
             />
